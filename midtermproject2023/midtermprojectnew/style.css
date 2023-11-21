@@ -56,16 +56,6 @@
    
 }
 
-.checkbox-container {
-    display: flex;
-    flex-direction: column;
-}
-
-.checkbox-item {
-    margin-bottom: 7px;
-}
-
-
 /* Main Section Styles */
 .main {
     width: 60%;
