@@ -1,3 +1,5 @@
+[Gülsinem Kazancı 200709056
+](https://github.com/gsinem/midtermproject2023)
 ## CINEBANK Financial Web Sites
 CINEBANK is a web sites designed to provide users with a comprehensive suite of financial services. Since its establishment in 2000, CINEBANK has been committed to offering a user-friendly platform for managing finances efficiently. This README provides an overview of the project's general details.
 
